@@ -67,7 +67,7 @@
   <string name="net_traffic_preference_summary">Параметры значка сетевого трафика в строке состояния</string>
   <string name="qs_preference_summary">Плитки, быстрое доступ, яркость, опции прозрачности</string>
   <string name="statusbar_preference_summary">Параметры отображения значков в строке состояния</string>
-  <string name="recents_preference_summary">Опции AOSP recents и SlimRecents</string>
+  <string name="recents_preference_summary">Параметры AOSP recents и SlimRecents</string>
   <string name="ga_preference_summary">Настройка жестов</string>
   <string name="custom_carrier_label_preference_summary">Параметры бегущей строки в строке состояния</string>
   <!-- Power Menu -->
